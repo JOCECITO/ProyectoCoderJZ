@@ -1,0 +1,31 @@
+header{
+    background-image: url(./_godofwar1y2.scss);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+body{
+    background-color: black;
+}
+
+.c-blue{
+    color: red;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+p{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+a:hover{
+    color: red !important;
+}
+
+i{
+    font-size: 25px;
+}
