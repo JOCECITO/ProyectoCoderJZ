@@ -1,5 +1,5 @@
 header{
-    background-image: url(./images/GOWACS.jpeg);
+    background-image: url(../images/GOWACS.jpeg);
     background-size: cover;
     background-repeat: no-repeat;
     padding: 10px 20px;
@@ -28,4 +28,10 @@ a:hover{
 
 i{
     font-size: 25px;
+}
+
+footer{
+    background-image: url(../images/GOWACS.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
 }
